@@ -1,0 +1,5 @@
+接口根路径：https://www.liulongbin.top:8888/api/private/v1
+
+https://ladychatterleylover.github.io/shop-admin-api/api/ 接口文档
+
+网站模板  127.0.0.1/shop-admin/#/login

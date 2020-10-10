@@ -1,0 +1,58 @@
+.login_All {
+    .el-form-item__label {
+        font-size: 12px !important;
+    }
+}
+
+.layout_All {
+    .box {
+        line-height: 40px !important;
+    }
+
+}
+
+.sider_All {
+
+    .el-menu-item,
+    .el-submenu__title {
+        width: 185px !important;
+    }
+}
+
+.users_All {
+    .el-dialog {
+        width: 40% !important;
+    }
+}
+
+.sort_All {
+    .el-table__expand-icon {
+        position: absolute;
+        left: 120px;
+        z-index: 2;
+    }
+
+//     .el-icon-arrow-right:before {
+//         border: .2px solid #686868;
+//         content: "\e6d9";
+
+//     }
+
+//     .el-table__expand-icon--expanded .el-icon-arrow-right:before {
+
+//         content: "\e6d8" !important;
+
+//     }
+
+//    .el-table__expand-icon--expanded {
+
+//         -webkit-transform: rotate(0deg);
+
+//         transform: rotate(0deg);
+
+//     }
+    .el-form-item{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
